@@ -1,0 +1,14 @@
+{
+  "host": {
+    "_url": "http://localhost.com"
+  },
+  "appSettings": {
+    "isDevMode": true
+  },
+  "params": {
+    "referral": {
+      "value": "http://localhost.com"
+    }
+  },
+  "$schema": "./node_modules/@skyux/config/skyuxconfig-schema.json"
+}
